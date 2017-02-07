@@ -1,0 +1,38 @@
+ header {
+	margin: 5px;
+	background-color: #FFB4B0;
+	padding: 40px;
+	border-style: solid;
+	border-radius: 10%;
+	text-align: center;
+	width: 90%
+}
+
+a {
+	color: #785616;
+}
+
+#side-bar {
+	background-color: #4DD7FA;
+	float: left;
+	margin: 5px;
+	border-style: solid;
+	border-radius: 10%;
+	display: inline-block;
+	width: 25%;
+	height: 415px;
+	text-align: center;
+
+}
+
+#main {
+	background-color: #FEFAC0;
+	text-align: center;
+	margin: 5px;
+	float: right;
+	width: 70%;
+	border-style: solid;
+	border-radius: 10%;
+	display: inline-block;
+	height: 415px;
+}
